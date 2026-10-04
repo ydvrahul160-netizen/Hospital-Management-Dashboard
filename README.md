@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Hospital Management Dashboard](screenshots/hospital-dashboard.png)
+![Hospital Management Dashboard](hospital-dashboard.png)
